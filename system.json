@@ -1,7 +1,7 @@
 {
   "id": "dark-heresy",
-  "title": "Dark Heresy 2E",
-  "description": "Unofficial Foundry VTT System for Dark Heresy 2nd Edition.",
+  "title": "Deathwatch",
+  "description": "Death Begets Dishonor",
   "version": "4.3.2",
   "minimumCoreVersion" : 11,
   "compatibility" : {
